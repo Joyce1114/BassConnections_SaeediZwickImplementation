@@ -9,8 +9,8 @@ To apply the Bass Connections Energy Data Analytics Lab's rendition of the Saeed
 lines that is output from the segmentation step (1). Then run cellarrayoutput.
 
 
-3. Run Saeedi_EricJoyceCombined, changing the input in line 14 to 
-the desired file of lines that is output from the segmentation step (1).
+3. Open Saeedi_EricJoyceCombined, then change the input in line 14 to 
+the desired file of lines that is the output from the segmentation step (1).
 Tune the other paramters at the top of the page to taste. Then run 
 Saeedi_EricJoyceCombined. The output is called finaloutput, and its structure
 is described in detail in the comment at the end of Saeedi_EricJoyceCombined.
