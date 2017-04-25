@@ -21,7 +21,7 @@ is described in detail in the comment at the end of Saeedi_EricJoyceCombined.
 
 
 
-6. Evaluation: open evaluation.m and change the input to your confidence map. This script will help you evalualte the result and plot the ROC curve.
+6. Evaluation: open evaluation.m and change the input to your confidence map. This script will help you evalualte the result and plot the ROC curve and PR curve. Make sure you download the Result2.m. This class is used to help plot the curves.
 
 
 
