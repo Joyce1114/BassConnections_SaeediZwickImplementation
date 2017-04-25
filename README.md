@@ -16,9 +16,7 @@ Saeedi_EricJoyceCombined. The output is called finaloutput, and its structure
 is described in detail in the comment at the end of Saeedi_EricJoyceCombined.
 
 
-5. SEBASTIAN describe your process here, starting with the "finaloutput" cell as your first input. 
-
-
+5. Run globalHypothesisRefinement.m. Modify the arguments for generateSegmentNew to match your imageNames. GlobalHypothesisRefinement.m outputs a file outputs a mat object that contains the matrix in which an entry represent the number of hypothesis containing that specific entry. 
 
 
 6. Evaluation: open evaluation.m and change the input to your confidence map. This script will help you evalualte the result and plot the ROC curve and PR curve. Make sure you download the Result2.m. This class is used to help plot the curves.
